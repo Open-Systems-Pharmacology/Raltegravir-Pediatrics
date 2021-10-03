@@ -1,6 +1,6 @@
 # Raltegravir-Pediatrics
 
-Modeling of published clinical Alfenatnil studies in pediatrics for model evaluation
+Modeling of published clinical raltegravir studies in pediatrics for model evaluation
 
 Within this repository, we distribute a PK-Sim snapshot file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding raltegravir pharmacokincetics in children, including the respective observed data digitized from literature reports, when available.
 
